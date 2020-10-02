@@ -81,6 +81,11 @@ a {
     font-size: larger;
 }
 
+#music {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+}
 
 @media (max-width: 768px) {
     body {
@@ -130,10 +135,9 @@ a {
         color: white;
         font-size: 1.3em;
     }
+
+    #music {
+        display: none;
+    }
 }
 
-#music {
-    position: fixed;
-    left: 0px;
-    bottom: 0px;
-}
