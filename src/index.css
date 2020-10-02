@@ -131,3 +131,9 @@ a {
         font-size: 1.3em;
     }
 }
+
+#music {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+}
