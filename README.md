@@ -1,3 +1,4 @@
-# Biopage of wlt233 at wlt233.com
+# Biopage of TheDeathDragon
 
-## edited from [amphineko](https://github.com/amphineko/)
+## edited from [amphineko](https://github.com/amphineko/) && [wlt233](https://github.com/wlt233/)
+
